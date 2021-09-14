@@ -110,7 +110,7 @@
     {
       "company": "AZMATH COMPANY",
       "position": "Data Collector",
-      "website": "http://www.",
+      "website": "http:",
       "startDate": "2017-01-08",
       "endDate": "2017-04-15",
       "summary": "",
@@ -123,13 +123,14 @@
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "website": 
+      "position": "Android app Developer",
+      "startDate": "2020-05-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Android app developer for location based attendance trackingproject",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
+        "Uses the Geofencing technology ",
+    "Pdf-based attendance record printing"
         "Maintain custom data collection and storage infrastructure"
       ]
     },
@@ -162,6 +163,8 @@
     {
       "name": "J Musyoka",
       "reference": "KPLC-System Administrator"
+      "reference": "Jmusyoka@kplc.co.ke"
+      "reference":"+254 724 211592"
     }
   ]
 }
