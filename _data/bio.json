@@ -48,8 +48,8 @@
     {
       "name": "Network Admin",
       "keywords": [
-        "Fiber Optics(Fiber cable installation and Splicing",
-        "Wirelss Network Installation and Configurations (Ubiquiti Devices)"
+        "Fiber Optics Fiber cable installation and Splicing",
+        "Wirelss Network Installation and Configurations of Ubiquiti Devices"
       ]
     },
     {
@@ -67,7 +67,7 @@
       "keywords": [
         "Java",
         "Javascript",
-        "PHP",
+        "PHP"
       ]
     },
     {
@@ -144,7 +144,7 @@
       "summary": "Android app developer for location based attendance trackingproject",
       "highlights": [
         "Uses the Geofencing technology ",
-    "Pdf-based attendance record printing"
+    "Pdf-based attendance record printing",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
@@ -177,7 +177,7 @@
     {
       "name": "J Musyoka",
       "reference": "KPLC-System Administrator",
-      "Jmusyoka@kplc.co.ke"
+      "Jmusyoka@kplc.co.ke",
       "+254 724 211592"
     }
   ]
