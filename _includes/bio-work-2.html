@@ -11,7 +11,7 @@
     <p class="ui no-bottom"><b>{{ entry.position }}, {{ entry.company }}</b></p>
     <p class="ui no-bottom"><a href="{{ entry.url }}">{{ entry.url | remove: "http://" | remove: "https://" }}</a></p>
   </div>
-  <div class="five wide right aligned column no-bottom">
+  <div class="four wide right aligned column no-bottom">
     <p class="ui no-bottom"><b>
       {% if entry.startDate %}
         {{ entry.startDate | slice: 0,4 }}
