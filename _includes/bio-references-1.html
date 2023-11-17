@@ -9,9 +9,9 @@
   <div class="fourteen wide column no-bottom">
     <p class="ui no-bottom">
     {% for entry in site.data.bio.references %}
-      {{ entry.name }}
+      {{ entry.name }} <br/>
       {% if entry.reference and entry.reference.size > 0 %}
-        <em>{{ entry.reference }}</em>
+        <em>{{ entry.reference }}</em><br?>
       {% endif %}
     {% endfor %}
     </p>
