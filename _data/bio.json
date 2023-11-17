@@ -4,7 +4,7 @@
     "label": "Graduate",
     "picture": "https://kamuhiaisaac.github.io/images/Isaac.jpg",
     "email": "ikamuhia@gmail.com",
-    "phone": "+254-711662680",
+    "phone": "+254-110869172",
     "website": "https://kamuhiaisaac.github.io",
     "summary": "B.S. in Computer Science Degree Holder from DEDAN KIMATHI UNIVERSITY OF TECHNOLOGY.",
     "location": {
@@ -46,13 +46,17 @@
       ]
     },
     {
-      "name": "Network Administration",
+      "name": "Network Admin",
       "keywords": [
+        "Fiber Optics(Fiber cable installation and Splicing",
+        "Wirelss Network Installation and Configurations (Ubiquiti Devices)"
       ]
     },
     {
-      "name": "Data Analysis",
+      "name": "Java Programming",
       "keywords": [
+        "Eclipse IDE",
+        "Netbeans IDE"
       ]
     }
   ],
@@ -61,22 +65,21 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
         "Javascript",
         "PHP",
-        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Pycharm",
+        "Eclipse",
         "Ubuntu",
         "Git/GitHub",
         "Netbeans",
+        "Adobe Illustrator",
+        "Adobe Photoshop",
         "Windows 10",
         "Android Studio"
       ]
@@ -102,6 +105,17 @@
       "startDate": "2020-01-10",
       "endDate": "2020-03-20",
       "summary": "Industrial Attachment Experience",
+      "highlights": [
+        "Network troubleshooting, Install Softwares eg Windows 10 OS,SAP, Switch & router configuration, Fiber cable installation,IT support offers",
+      ]
+    },
+     {
+      "company": "COUNTY GOVERMENT OF NYERI,Governor's Office",
+      "position": "ICT Officer",
+      "website": "",
+      "startDate": "2022-01-10",
+      "endDate": "2023-01-09",
+      "summary": "One-year internship contract",
       "highlights": [
         "Network troubleshooting, Install Softwares eg Windows 10 OS,SAP, Switch & router configuration, Fiber cable installation,IT support offers",
         "Drive,  "
