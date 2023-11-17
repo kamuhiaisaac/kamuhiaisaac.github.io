@@ -87,8 +87,8 @@
   ],
   "education": [
     {
-      "institution": "DEDAN KIMATHI UNIVERSITY OF TECHNOLOGY, NYERI-KENYA",
-      "area": "Computer Science (Graduated 28th May, 2021)",
+      "institution": "Dedan Kimathi University of Technology, Nyeri-Kenya",
+      "area": "Computer Science (Graduated on 28th May, 2021)",
       "studyType": "B.Sc.",
       "startDate": "2017-04-11",
       "endDate": "28th May,2021",
@@ -97,17 +97,51 @@
       ]
     },
     {
-      "institution": "DEDAN KIMATHI UNIVERSITY OF TECHNOLOGY, NYERI-KENYA",
-      "area": "Computer Science (Graduated 28th May, 2021)",
+      "institution": "Mathakwa-ini Secondary School, Nyeri-Kenya",
+      "area": "Secondary School Curriculum (B+ 71 Points)",
       "studyType": "B.Sc.",
-      "startDate": "2017-04-11",
-      "endDate": "28th May,2021",
+      "startDate": "February,2013",
+      "endDate": "November,2021",
       "gpa": "",
       "courses": [
       ]
     }
   ],
   "work": [
+    {
+      "company": "Agape-Tech Enterprise Solutions,Nyeri",
+      "position": "Fiber Optics Engineer (Splicer) ",
+      "website": "https://agapetechfibre.co.ke",
+      "startDate": "2020-06-03",
+      "endDate": "to-Date",
+      "summary": "Work-on-Contract",
+      "highlights": [
+        "Network troubleshooting, Install Softwares eg Windows 10 OS,SAP, Switch & router configuration, Fiber cable installation,IT support offers",
+      ]
+    },
+    {
+      "company": "Zinc Internet Solutions",
+      "position": "Fiber Technician",
+      "website": "",
+      "startDate": "2023-01-03",
+      "endDate": "2023-05-02",
+      "summary": "Contract",
+      "highlights": [
+        "Network troubleshooting, Install Softwares eg Windows 10 OS,SAP, Switch & router configuration, Fiber cable installation,IT support offers",
+      ]
+    },
+     {
+      "company": "County Goverment of Nyeri,Governor's Office",
+      "position": "ICT Officer",
+      "website": "",
+      "startDate": "2022-01-10",
+      "endDate": "2023-01-09",
+      "summary": "1-Year Internship Contract",
+      "highlights": [
+        "Network troubleshooting, Install Softwares eg Windows 10 OS,SAP, Switch & router configuration, Fiber cable installation,IT support offers",
+        "Drive,  "
+      ]
+    },
     {
       "company": "KENYA POWER AND LIGHTING COMPANY",
       "position": "Attachee",
@@ -117,18 +151,6 @@
       "summary": "Industrial Attachment Experience",
       "highlights": [
         "Network troubleshooting, Install Softwares eg Windows 10 OS,SAP, Switch & router configuration, Fiber cable installation,IT support offers",
-      ]
-    },
-     {
-      "company": "COUNTY GOVERMENT OF NYERI,Governor's Office",
-      "position": "ICT Officer",
-      "website": "",
-      "startDate": "2022-01-10",
-      "endDate": "2023-01-09",
-      "summary": "1-Year internship contract",
-      "highlights": [
-        "Network troubleshooting, Install Softwares eg Windows 10 OS,SAP, Switch & router configuration, Fiber cable installation,IT support offers",
-        "Drive,  "
       ]
     },
     {
