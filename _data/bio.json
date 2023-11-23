@@ -116,7 +116,10 @@
       "endDate": "to-Date",
       "summary": "Work-on-Contract",
       "highlights": [
-        "Fiber Optics Cable Installations,<br/> Spicing the cores at FATs/Domes Closures,Configuration of ONU at Customer's places with PPOEs,Troubleshooting Fiber Network failure such as fiber cut",
+        "Fiber Optics Cable Installations",
+        "Spicing the cores at FATs/Domes Closures",
+        "Configuration of ONU at Customer's places with PPOEs",
+        "Troubleshooting Fiber Network failures such as fiber cut",
       ]
     },
     {
@@ -127,18 +130,26 @@
       "endDate": "2023-05-02",
       "summary": "Contract",
       "highlights": [
-        "Fiber Optics Cable Installations,Spicing the cores at FATs/Domes Closures,Configuration of ONU at Customer's places with PPOEs,Troubleshooting Fiber Network failure such as fiber cut",
+        "Fiber Optics Cable Installations",
+        "Spicing the cores at FATs/Domes Closures",
+        "Configuration of ONU at Customer's places with PPOEs",
+        "Troubleshooting Fiber Network failure such as fiber cut",
       ]
     },
      {
-      "company": "County Goverment of Nyeri,Governor's Office",
+      "company": "County Government of Nyeri,Governor's Office",
       "position": "ICT Officer",
       "website": "",
       "startDate": "2022-01-10",
       "endDate": "2023-01-09",
       "summary": "1-Year Internship Contract",
       "highlights": [
-        "Data analysis at KCSAP Nyeri Offices,Installation and maitenance of IP CCTV cameras at Department of Lands Housing Physical planning and Urban Development Offices,Installation of Ubiquiti M2 loco nanostation as Access Point for internet coverage at Town Hall parking area,Set up P2P line of sight network bridge using Ubiquiti Powerbeam 5AC & Powerbeam M5 Receivers.Monitoring CCTV cameras at TownHall.Offer ICT supoort T support",
+        "Data analysis at KCSAP Nyeri Offices",
+        "Installation and maintenance of IP CCTV cameras at Department of Lands Housing Physical planning and Urban Development Offices",
+        "Installation of Ubiquiti M2 loco nanostation as Access Point for internet coverage at Town Hall parking area",
+        "Set up P2P line of sight network bridge using Ubiquiti Powerbeam 5AC & Powerbeam M5 Receivers",
+        "Monitoring CCTV cameras at Town Hall",
+        "Offer ICT supoort T support",
       
       ]
     },
@@ -150,7 +161,11 @@
       "endDate": "2020-03-20",
       "summary": "Industrial Attachment Experience",
       "highlights": [
-        "Network troubleshooting, Install Softwares eg Windows 10 OS,SAP, Switch & router configuration, Fiber cable installation,IT support offers",
+        "Network troubleshooting",
+"Install softwares such as Windows 10 OS and SAP,"
+        "Switch & router configuration",
+        "Fiber cable installation",
+        "IT support offers",
       ]
     },
     {
@@ -168,15 +183,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "Dedan Kimathi University of Technology",
       
-      "position": "Android app Developer",
+      "position": "Android app Developer Student",
       "startDate": "2020-05-01",
       "endDate": "Present",
       "summary": "Android app developer for location based attendance trackingproject",
       "highlights": [
         "Uses the Geofencing technology ",
-    "Pdf-based attendance record printing",
+        "Pdf-based attendance record printing",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
