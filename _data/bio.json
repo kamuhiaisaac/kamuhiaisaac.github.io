@@ -188,11 +188,11 @@
       "position": "Android app Developer Student",
       "startDate": "2020-05-01",
       "endDate": "Present",
-      "summary": "Android app developer for location based attendance trackingproject",
+      "summary": "Android app developer for location-based attendance trackingproject",
       "highlights": [
         "Uses the Geofencing technology ",
         "Pdf-based attendance record printing",
-        "Maintain custom data collection and storage infrastructure"
+        "Maintain custom data collection and storage infrastructure."
       ]
     },
     {
@@ -211,7 +211,7 @@
       "title": "Computer Networking Certificate",
       "date": "2020-06-20",
       "awarder": "Alison Online Learning Platform",
-      "summary": "Certificate awarded for Completion of Computer Networking- Wired and wireless networks and protocols course."
+      "summary": "Certificate awarded for Completion of Computer Networking: Wired and Wireless Networks and Protocols Course."
     },
     {
       "title": "NYEKUSA Leadership Certificate",
@@ -223,10 +223,10 @@
   "references": [
     {
       "name": "Dadson Ngatia",
-      "reference": "ICT Director Nyeri County Government",
-      "Nyeri",
-      "+254 724940130"
+      "reference": "ICT Director Nyeri County Government <br/> Nyeri<br/> +254 724940130",
+       <br/>
     },
+   
     {
       "name": "George Kariuki",
       "reference": "C.E.O",
