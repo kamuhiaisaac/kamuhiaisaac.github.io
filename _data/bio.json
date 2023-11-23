@@ -223,21 +223,17 @@
   "references": [
     {
       "name": "Dadson Ngatia",
-      "reference": "ICT Director Nyeri County Government <br/> Nyeri<br/> +254 724940130",
+      "reference": "ICT Director Nyeri County Government <br/> Nyeri<br/> +254 724940130<br/><br/>",
        <br/>
     },
    
     {
       "name": "George Kariuki",
-      "reference": "C.E.O",
-      "Agape-tech Enterprise Solutions, Nyeri",
-      "+254 727705953"
+      "reference": "C.E.O <br/>Agape-tech Enterprise Solutions, Nyeri<br/>+254 727705953<br/><br/>",
     },
     {
       "name": "J Musyoka",
-      "reference": "KPLC-System Administrator",
-      "Jmusyoka@kplc.co.ke",
-      "+254 724 211592"
+      "reference": "KPLC-System Administrator<br/>Jmusyoka@kplc.co.ke<br/>+254 724 211592<br/><br/>",
     }
   ]
 }
